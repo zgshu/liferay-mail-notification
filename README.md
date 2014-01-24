@@ -1,0 +1,2 @@
+liferay-mail-notification
+=========================
